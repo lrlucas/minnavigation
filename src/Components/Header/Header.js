@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import {TweenLite, TweenMax, TimelineLite,Expo} from 'gsap/all'
+import {TweenLite, TweenMax, TimelineLite,Expo} from 'gsap'
 
  class Header extends Component {
 
